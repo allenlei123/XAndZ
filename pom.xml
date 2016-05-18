@@ -40,6 +40,9 @@
         <groupId>com.heroku.sdk</groupId>
         <artifactId>heroku-maven-plugin</artifactId>
         <version>0.3.6</version>
+		<configuration>
+		  <appName>serene-waters-93725</appName>
+		</configuration>
       </plugin>
      </plugins>
   </build>
